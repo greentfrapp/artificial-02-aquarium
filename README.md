@@ -2,7 +2,9 @@
 
 **(art)ificial** *project02*
 
-This repository contains the script that created AQUARIUM (images to be uploaded).
+<img src="https://raw.githubusercontent.com/greentfrapp/artificial-02-aquarium/master/AQUARIUM/all.jpg" width="250" alt="AQUARIUM"></img>
+
+This repository contains the script that created [AQUARIUM](https://github.com/greentfrapp/artificial-02-aquarium/tree/master/AQUARIUM).
 
 ### Instructions
 
